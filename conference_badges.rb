@@ -8,7 +8,8 @@
     attendees.collect do |name|
       badge_maker(name) 
   end
-  def assign_rooms
+  def assign_rooms(attendees)
+    rooms=0 
     
   end
   def printer
