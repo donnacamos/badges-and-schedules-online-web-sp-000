@@ -12,7 +12,7 @@
     rooms=0 
     attendees.collect do |name|
       room+=1 
-      ""
+      "Hello"
   end
   def printer
     
