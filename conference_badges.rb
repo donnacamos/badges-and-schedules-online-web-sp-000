@@ -15,6 +15,7 @@
       "Hello, #{name}! You'll be assigned to room #{room}."
   end
   def printer
+    batch_badge_creator(attendees)
     
   end
  
