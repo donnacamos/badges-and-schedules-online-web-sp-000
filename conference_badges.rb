@@ -21,7 +21,6 @@
     assign_rooms(attendees).each do |value|
       puts value
     end 
-  end 
     
     
   end
