@@ -1,4 +1,17 @@
 # Write your code here.
-def batch_badge_creator(speakers = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz])
+def conference_badges
+  def badge_maker
+    
+  end
+  def batch_badge_creator
+    
+  end
+  def assign_rooms
+    
+  end
+  def printer
+    
+  end
+  
   
 end 
