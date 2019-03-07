@@ -12,6 +12,4 @@ def conference_badges
   def printer
     
   end
-  
-  
 end 
