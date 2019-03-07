@@ -15,7 +15,8 @@
       "Hello, #{name}! You'll be assigned to room #{room}."
   end
   def printer
-    batch_badge_creator(attendees).each do |
+    batch_badge_creator(attendees).each do |value| 
+      
     
   end
  
